@@ -10,7 +10,7 @@ function App() {
     <>
       <BrowserRouter>
         <header>
-          <div class="container">
+          <div className="container">
             <NavBar />
           </div>
         </header>
