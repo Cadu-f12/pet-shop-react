@@ -1,0 +1,12 @@
+.titulo-cliente {
+    font-size: 25px;
+
+    font-weight: bold;
+
+    margin: 15px 0px;
+    padding: 0px;
+}
+
+.imagem-rottwei img {
+    width: 300px;
+}

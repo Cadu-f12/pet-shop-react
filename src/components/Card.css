@@ -1,0 +1,26 @@
+.cartao-foto {
+    margin: 10px 0px;
+}
+
+.imagem-cartao {
+    width: 100%;
+    height: 165px;
+}
+
+.titulo-container {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+
+    background-color: black;
+}
+
+.titulo-texto {
+    margin: 0px;
+    padding: 0px;
+    
+    color: white;
+    
+    font-weight: bold;
+}

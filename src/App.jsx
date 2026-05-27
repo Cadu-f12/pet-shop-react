@@ -10,7 +10,7 @@ function App() {
     <>
       <BrowserRouter>
         <header>
-          <div className="container">
+          <div className="container-fluid">
             <NavBar />
           </div>
         </header>

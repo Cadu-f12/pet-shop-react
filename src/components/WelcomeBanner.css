@@ -1,0 +1,21 @@
+.welcome-banner {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    padding: 40px 0px;
+    margin: 20px 0px;
+
+    background-color: rgb(176, 176, 176);
+}
+
+.welcome-banner h1 {
+    margin: 0px;
+    padding: 0px;
+    
+    font-size: 30px;
+
+    font-weight: bold;
+    
+    color: rgb(0, 0, 0);
+}
